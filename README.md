@@ -1,3 +1,5 @@
+# BDH Project
+
 **Status:** Archived. Code is provided as-is with no updates expected. Unfortunately I don't have the personal time to dedicate to maintaining this repo/responding to issues, nor access to the MIMIC dataset anymore, though I hope the model code and data splits can still be of use to the community.
 
 # caml-mimic
